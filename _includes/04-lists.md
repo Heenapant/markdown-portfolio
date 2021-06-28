@@ -4,4 +4,9 @@ Replace this with a list of your favorite things.
  *BADMINTON
  *SWIMMING
  *CRICKET
-*PLAYERS:-
+-PLAYERS:-
+ -MESSI
+ _SAINA NEHWAL
+ -PTA NAHI
+ -MS.DHONI
+ 
